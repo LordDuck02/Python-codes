@@ -1,4 +1,3 @@
-```python
 import time
 import math
 #Raiz-Quadrada
@@ -65,4 +64,3 @@ elif ferramenta == "1":
           print(digito1, "*", digito2, "=", multiplicar(digito1, digito2))
     elif operador == "/":
           print(digito1, "/", digito2, "=", dividir(digito1, digito2))
-```
